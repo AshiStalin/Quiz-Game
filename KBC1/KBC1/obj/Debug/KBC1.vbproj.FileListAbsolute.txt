@@ -1,0 +1,26 @@
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\bin\Debug\KBC1.exe.config
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\bin\Debug\KBC1.exe
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\bin\Debug\KBC1.pdb
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\bin\Debug\KBC1.xml
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.Form1.resources
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.Resources.resources
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.vbproj.GenerateResource.Cache
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.exe
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.xml
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.pdb
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.vbprojResolveAssemblyReference.cache
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.SplashScreen1.resources
+e:\ashi-musu\my documents\visual studio 2015\Projects\KBC1\KBC1\obj\Debug\KBC1.Form2.resources
+H:\KBC1\KBC1\bin\Debug\KBC1.exe.config
+H:\KBC1\KBC1\obj\Debug\KBC1.exe
+H:\KBC1\KBC1\obj\Debug\KBC1.xml
+H:\KBC1\KBC1\obj\Debug\KBC1.pdb
+H:\KBC1\KBC1\bin\Debug\KBC1.exe
+H:\KBC1\KBC1\bin\Debug\KBC1.pdb
+H:\KBC1\KBC1\bin\Debug\KBC1.xml
+H:\KBC1\KBC1\obj\Debug\KBC1.vbprojResolveAssemblyReference.cache
+H:\KBC1\KBC1\obj\Debug\KBC1.Form1.resources
+H:\KBC1\KBC1\obj\Debug\KBC1.Form2.resources
+H:\KBC1\KBC1\obj\Debug\KBC1.Resources.resources
+H:\KBC1\KBC1\obj\Debug\KBC1.SplashScreen1.resources
+H:\KBC1\KBC1\obj\Debug\KBC1.vbproj.GenerateResource.Cache
